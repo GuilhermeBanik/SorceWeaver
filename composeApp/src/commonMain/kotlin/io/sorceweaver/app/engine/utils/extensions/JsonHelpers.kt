@@ -1,4 +1,4 @@
-package io.sorceweaver.app.engine.utils
+package io.sorceweaver.app.engine.utils.extensions
 
 import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.JsonPrimitive
